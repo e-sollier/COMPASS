@@ -1,5 +1,5 @@
 # COMPASS
-
+TEST
 COpy number and Mutations Phylogeny from Amplicon Single-cell Sequencing
 
 This tool can be used to infer a tree of somatic events (mutations, copy number variants and copy-neutral loss of heterozygosity) that occurred in a tumor. It is specifically designed to be used for MissionBio's Tapestri data, where a small number of amplicons (50-300) are sequenced for thousands of single-cells.
